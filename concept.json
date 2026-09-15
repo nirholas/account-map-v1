@@ -1,0 +1,11 @@
+{
+  "slug": "account-map-v1",
+  "name": "Account Map V1",
+  "kind": "tooling",
+  "description": "Visualize up to 64 inline addresses and detect duplicates rejected by v1 sanitization.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
