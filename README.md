@@ -1,5 +1,10 @@
 # Account Map V1
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/account-map-v1?style=flat&logo=github)](https://github.com/nirholas/account-map-v1/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/account-map-v1?style=flat)](https://github.com/nirholas/account-map-v1/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/account-map-v1/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/account-map-v1/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 Visualize up to 64 inline addresses and detect duplicates rejected by v1 sanitization.
 
 ## Why this exists
@@ -47,3 +52,26 @@ MIT
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/account-map-v1&type=Date)](https://www.star-history.com/#nirholas/account-map-v1&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If account-map-v1 saves you time, **[star it on GitHub](https://github.com/nirholas/account-map-v1)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=account-map-v1%3A%20Visualize%20up%20to%2064%20inline%20addresses%20and%20detect%20duplicates%20rejected%20by%20v1%20sanitization&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Faccount-map-v1) · [Share on Bluesky](https://bsky.app/intent/compose?text=account-map-v1%3A%20Visualize%20up%20to%2064%20inline%20addresses%20and%20detect%20duplicates%20rejected%20by%20v1%20sanitization%20https%3A%2F%2Fgithub.com%2Fnirholas%2Faccount-map-v1) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Faccount-map-v1) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Faccount-map-v1&t=account-map-v1%3A%20Visualize%20up%20to%2064%20inline%20addresses%20and%20detect%20duplicates%20rejected%20by%20v1%20sanitization) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Faccount-map-v1&title=account-map-v1%3A%20Visualize%20up%20to%2064%20inline%20addresses%20and%20detect%20duplicates%20rejected%20by%20v1%20sanitization)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/account-map-v1` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/account-map-v1/issues) or [start a discussion](https://github.com/nirholas/account-map-v1/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/account-map-v1)](https://github.com/nirholas/account-map-v1/graphs/contributors)
+
+<!-- /three.ws:growth -->

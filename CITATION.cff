@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "account-map-v1"
+abstract: "Visualize up to 64 inline addresses and detect duplicates rejected by v1 sanitization."
+repository-code: "https://github.com/nirholas/account-map-v1"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
