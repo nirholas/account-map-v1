@@ -8,7 +8,7 @@ Visualize up to 64 inline addresses and detect duplicates rejected by v1 sanitiz
 
 - Source: https://github.com/nirholas/account-map-v1
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
